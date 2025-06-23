@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jituportfoliolive/static/css/main.033d4d42.css",
+    "main.js": "/jituportfoliolive/static/js/main.ab98a22d.js",
+    "index.html": "/jituportfoliolive/index.html",
+    "main.033d4d42.css.map": "/jituportfoliolive/static/css/main.033d4d42.css.map",
+    "main.ab98a22d.js.map": "/jituportfoliolive/static/js/main.ab98a22d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.033d4d42.css",
+    "static/js/main.ab98a22d.js"
+  ]
+}
