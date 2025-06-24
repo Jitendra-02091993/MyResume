@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/jituportfoliolive/static/css/main.033d4d42.css",
-    "main.js": "/jituportfoliolive/static/js/main.d14efaf9.js",
+    "main.css": "/jituportfoliolive/static/css/main.1213bca8.css",
+    "main.js": "/jituportfoliolive/static/js/main.79c8cc0b.js",
     "index.html": "/jituportfoliolive/index.html",
-    "main.033d4d42.css.map": "/jituportfoliolive/static/css/main.033d4d42.css.map",
-    "main.d14efaf9.js.map": "/jituportfoliolive/static/js/main.d14efaf9.js.map"
+    "main.1213bca8.css.map": "/jituportfoliolive/static/css/main.1213bca8.css.map",
+    "main.79c8cc0b.js.map": "/jituportfoliolive/static/js/main.79c8cc0b.js.map"
   },
   "entrypoints": [
-    "static/css/main.033d4d42.css",
-    "static/js/main.d14efaf9.js"
+    "static/css/main.1213bca8.css",
+    "static/js/main.79c8cc0b.js"
   ]
 }
